@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# FAYAS
+#VF MOHAMMED FAYAS
 
 ### Frontend Developer · Exploring Full Stack Development
 
