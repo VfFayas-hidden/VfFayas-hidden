@@ -25,7 +25,7 @@ name: Muhammed Fayas
 education: Bachelor of Computer Applications
 status: Final-year student | Expected 2027
 focus: Frontend Development
-currently_learning: JavaScript & Full Stack Development
+currently_learning: JavaScript & DOM Manipulation
 interests:
   - Web Development
   - UI/UX
@@ -33,11 +33,7 @@ interests:
   - Building Real-World Projects
 ```
 
-I'm a BCA student passionate about web development and creating clean, responsive, and user-friendly digital experiences.
-
-I enjoy transforming ideas into functional web applications, exploring modern UI design, and continuously improving my development skills through hands-on projects.
-
-Currently focused on strengthening my JavaScript foundation, building better frontend applications, and gradually moving toward full-stack development.
+I'm a Computer Applications student focused on frontend development and building responsive, user-friendly web applications. I enjoy turning ideas into practical digital experiences, exploring modern UI design, and developing projects that solve real-world problems.
 
 ---
 
