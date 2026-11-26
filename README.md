@@ -92,6 +92,8 @@ A modern automotive showcase experience featuring responsive layouts and interac
 
 ### 🤖 Nova AI Chatbot
 
+<img src="https://raw.githubusercontent.com/VfFayas-hidden/Nova-AI-Chatbot/main/NovaAi.png" width="100%" alt="Nova AI Chatbot Preview" />
+
 **AI-Powered Web Assistant**
 
 A web-based conversational AI application combining a frontend interface with a Python backend.
