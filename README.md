@@ -72,6 +72,8 @@ I'm a Computer Applications student focused on frontend development and building
 
 ### 🚗 NovaDrive
 
+<img src="https://raw.githubusercontent.com/VfFayas-hidden/NovaDrive/main/screenshots/hero.png" width="100%" alt="NovaDrive Website Preview" />
+
 **Automotive Showcase Website**
 
 A modern automotive showcase experience featuring responsive layouts and interactive vehicle browsing.
