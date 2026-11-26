@@ -105,7 +105,8 @@ A web-based conversational AI application combining a frontend interface with a 
 
 **Built with:** Python · Flask · HTML · CSS · JavaScript
 
-[View Repository](https://github.com/VfFayas-hidden/Nova-AI-Chatbot)
+[View Repository](https://github.com/VfFayas-hidden/Nova-AI-Chatbot)  
+[Live Demo](https://nova-ai-chatbot-fa7p.onrender.com)
 
 </td>
 </tr>
